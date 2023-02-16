@@ -6,10 +6,10 @@ class Conversation {
   /**
    * 
    * Creates a conversation between the user and the computer. 
-   * @param string given by user
+   * @param string typed in by user
    * @return void
    * 
-   */
+   */      
   public static void main(String[] arguments) {
     // You will start the conversation here.
     String[] responseList = {"Shocking", "I'm surprised.", "Are you ok?", "Oh wow.", "Mhm."};
